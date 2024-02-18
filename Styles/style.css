@@ -1,0 +1,67 @@
+/* shared style */
+.site-font {
+    font-family: "Work Sans", sans-serif;
+}
+.btn-primary{
+    background-color: #F15B22;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+/* banner style */
+header{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.banner-content{
+    text-align: right;
+    padding-right: 230px;
+    padding-left: 885px;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: 700;
+    padding-top: 216px;
+    margin-bottom: 0px;
+    size: 512px;
+}
+.banner-description{
+    font-size: 16px;
+    font-style: normal;
+    margin-top: 26px;
+    margin-bottom: 32px;
+}
+
+.banner-btn {
+    background-color: #F15B22;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    padding: 20px 25px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 166px;
+}
+
+/* failiar-container */
+.failiar-container{
+    margin-top: 131px;
+    margin-left: 206px;
+    display: flex;
+    align-items: center;
+    gap: 87px;
+}
+
+.failiar-content{
+    padding-right: 322px;
+}
+.failiar-title {
+    font-size: 40px;
+    font-style: 700;
+}
